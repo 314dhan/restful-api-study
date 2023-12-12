@@ -15,6 +15,24 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/314dhan/restful-api-study.git
    cd restful-api-study
-   npm install
-   nodemon index.js
-   nodemon server.js
+
+2. **Install and run the program**
+npm install
+nodemon index.js
+nodemon server.js
+
+
+3. **Explore the API Endpoints:**
+
+   Open your favorite API testing tool or use Postman.
+   Test the following endpoints:
+   GET / - Get all items.
+   GET /posts/:id - Get a specific item by ID.
+   POST /posts - Create a new item.
+   PATCH /posts/:id - Update a specific item by ID.
+   DELETE /posts/:id - Delete a specific item by ID.
+
+4. **Technologies Used**
+   Express.js - Web framework for Node.js.
+   Axios - Promise-based HTTP client.
+   Body Parser - Middleware to parse incoming request bodies.
