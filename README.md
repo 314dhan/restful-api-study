@@ -13,5 +13,5 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/express-api-learning.git
-   cd express-api-learning
+   git clone [https://github.com/yourusername/express-api-learning.git](https://github.com/314dhan/restful-api-study.git)https://github.com/314dhan/restful-api-study.git
+   cd resful-api-study
